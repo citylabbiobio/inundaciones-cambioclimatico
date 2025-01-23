@@ -181,7 +181,8 @@ var config = {
             rotateAnimation: true,
             onChapterEnter: [],
             onChapterExit: []
-        },        {
+        },
+        {
             id: 'Talcahuano-3',
             alignment: 'left',
             title: '',
