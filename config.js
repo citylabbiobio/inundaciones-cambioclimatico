@@ -183,15 +183,12 @@ var config = {
             rotateAnimation: true,
             onChapterEnter: [],
             onChapterExit: []
-        },
-                {
+        },        {
             id: 'Talcahuano-3',
             alignment: 'left',
-            title: '',
-            description:'',
             location: {
-                center: [-73.12137, -36.74095]
-                zoom: 11.92,
+                center: [-73.12137, -36.74095],
+                zoom: 11.02,
                 pitch: 0,
                 bearing: -90,
             },
