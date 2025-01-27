@@ -232,7 +232,7 @@ var config = {
             title: '',
             description: `
                 <h3 class="custom-description">
-                    La afectación a viviendas por el aumento de 2°C suma más de 14 mil viviendas y cerca de 48 mil personas.
+                    Las viviendas afectadas por el aumento de 2°C suma más de 14 mil unidades y cerca de 48 mil personas.
                 </h3>
             `,
             location: {
